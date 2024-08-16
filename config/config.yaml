@@ -1,0 +1,7 @@
+# MONGO DB CONFIG
+mongo:
+  dsn: mongodb://localhost:27017
+  dbname: store
+
+app:
+  port: 3000
